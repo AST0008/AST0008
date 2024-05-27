@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **backend Developement with ExpressJS with the help of Node**
 
-- 📫 How to reach me **work.ashwajittayade@gmail.com**
+- 📫 How to reach me **ashwajittayade30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
