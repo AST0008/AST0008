@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashwajit Tayade</h1>
 <h3 align="center">A passionate, learning developer from India</h3>
 
-- 🌱 I’m currently learning **backend Developement with ExpressJS with the help of Node**
 
 - 📫 How to reach me **ashwajittayade30@gmail.com**
 
