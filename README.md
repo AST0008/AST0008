@@ -1,7 +1,7 @@
 <h1 align="center">Hi ,I'm Ashwajit</h1>
 <h3 align="center">I'm a passionate developer continuously learning and building projects. My expertise includes web development, TypeScript, NextJS, and backend technologies like Node.js and Express.js.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma&theme=onedark/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ast0008" alt="ast0008" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ast0008" alt="ast0008" /></a> </p>
 
 - 🔭 I’m currently working on [Ledger-Line](https://ledger-line-e37f.vercel.app/dashboard)
 
