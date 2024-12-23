@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ast0008&show_icons=true&theme=radical&locale=en&layout=compact" alt="ast0008" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ast0008&show_icons=true&theme=radical&locale=en" alt="ast0008" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ast0008&rank_icon=github&theme=radical&locale=en" alt="ast0008" /></p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AST0008&theme=radical&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
